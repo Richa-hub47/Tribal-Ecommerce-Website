@@ -1,5 +1,5 @@
 # Tribal-Ecommerce-Website
-An ecommerce website, where customers can buy variety of tribal products such as Home Decor items, Organic Products, Paintings, Clothes etc 
+An ecommerce website, where customers can buy variety of tribal products such as Home Decor items, Organic Products, Paintings, Clothes etc. 
 
 # Screenshots
 ![login](https://user-images.githubusercontent.com/78342322/125186371-b7d9ed00-e247-11eb-956f-2835e9aa8818.png)
